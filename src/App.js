@@ -97,6 +97,7 @@ function ProjectsSection() {
     { category: 'web', title: 'Rock Paper Scissors Game', desc: 'React allows users to play against a computer, choosing between rock, paper, or scissors, and tracks scores, displaying the outcome (win, lose, or draw) after each round.', tech: 'React, JavaScript, CSS', link: 'https://rpsck.ccbp.tech' },
     { category: 'web', title: 'Prime Video', desc: 'A sample demo of Prime OTT.', tech: 'HTML, CSS, JavaScript', link: 'https://ckprime.ccbp.tech' },
     { category: 'web', title: 'Emoji Game', desc: 'A basic game designed using React.', tech: 'React, JavaScript, CSS', link: 'https://chanduchakinam.ccbp.tech' },
+    { category: 'web', title: 'Calculator', desc: 'A basic calculator designed using React.', tech: 'React, JavaScript, CSS', link: 'https://cscalculator.netlify.app' },
   ];
 
   return (
