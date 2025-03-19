@@ -90,7 +90,7 @@ function ProjectsSection() {
   const [filter, setFilter] = useState('all');
 
   const projects = [
-    { category: 'web', title: 'Todos Application', desc: 'A dynamic to-do list web app with a clean, user-friendly interface.', tech: 'HTML, CSS, JavaScript', link: 'https://tooddooss.ccbp.tech/' },
+    { category: 'web', title: 'Todos Application', desc: 'A dynamic to-do list web app with a clean, user-friendly interface.', tech: 'HTML, CSS, JavaScript', link: 'https://ttooddooss.ccbp.tech/' },
     { category: 'web', title: 'Food Delivery Application', desc: 'A responsive food delivery app interface for seamless user experience.', tech: 'HTML, CSS, JavaScript', link: 'https://foodmunch810000.ccbp.tech/' },
     { category: 'iot', title: 'Panic Alert System', desc: 'An IoT-based solution to assist people in emergencies using wireless devices.', tech: 'IoT, Python' },
     { category: 'ai-ml', title: 'Volcanic Eruption Prediction', desc: 'An AI-ML model to predict volcanic eruption end dates using a decisiveness index.', tech: 'Python, AI-ML' },
